@@ -1,0 +1,1 @@
+insert into cliente values (1, 'Augusto Luiz', 'augusto.ls.12.08@gmail.com', '55 11989297524');
